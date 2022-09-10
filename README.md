@@ -1,16 +1,14 @@
-# weather_app_algoriza
+# weather_app
 
-A new Flutter project.
+A new Flutter project to represent weather status , represent it with beautifull design , 
+Dealing with clean architecture , Bloc state managment , dependency injection design pattern  ,
+you can represent weather for your current location using geolocator package,
+showing 6 days forecast , chart for hourly weather ,
+toggle between dark & light mode 
+also use search screen to get specific city weather with cityName.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Video
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/96595062/189491720-04ea4aae-56a0-4973-a8ae-10e474d9d77e.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
