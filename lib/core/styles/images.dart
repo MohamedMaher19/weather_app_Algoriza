@@ -1,0 +1,9 @@
+const String darkBackground = 'assets/89266-rainy-weather.json';
+const String lightBackground = 'assets/light.json';
+const String humidity = 'assets/humidity.json';
+const String wind = 'assets/wind.json';
+const String sunrise = 'assets/sunrise.json';
+const String sunset = 'assets/sunset.json';
+const String splash = 'assets/splash.json';
+const String search = 'assets/94174-earth.json';
+const String splache = 'assets/32532-day-night.json';

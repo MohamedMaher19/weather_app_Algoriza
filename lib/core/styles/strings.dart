@@ -1,0 +1,9 @@
+const String humidity = 'Humidity';
+const String wind = 'Wind';
+const String sunrise = 'Sunrise';
+const String sunset = 'Sunset';
+const String feelsLike = 'Feels Like';
+const String favoriteLocation = 'Favorite Location';
+const String otherLocations = 'Other Locations';
+const String reportWrongLocation = 'Report Wrong Location';
+const String contactUs = 'Contact Us';
